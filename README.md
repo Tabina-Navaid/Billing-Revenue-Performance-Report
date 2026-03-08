@@ -56,16 +56,6 @@ A **three-tab Power BI report** was designed, each with independent dynamic filt
 
 ---
 
-## 🗂️ Repository Structure
-```
-├── images/
-│   ├── billed-amount.png
-│   ├── extracted-money.png
-│   └── revenue.png
-├── PowerBI_Dashboard.pbix
-└── README.md
-```
-
 ---
 
 ## 🔗 Data Pipeline
