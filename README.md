@@ -1,4 +1,4 @@
-# 📊 Power BI Financial Dashboard — German Company Revenue Tracker
+# 📊 Billing & Revenue Performance Report
 
 A multi-tab Power BI financial dashboard built for a German company, tracking billing, collections, and net revenue across a 5-year period. Connected to a live **Microsoft Azure** data pipeline, the dashboard gives finance and operations teams a single source of truth for monitoring **€576K+ in total revenue**, with dynamic filters across weekly, monthly, and yearly dimensions.
 
