@@ -73,9 +73,12 @@ A **three-tab Power BI report** was designed, each with independent dynamic filt
 - **Source:** Microsoft Azure
 - **Tool:** Power BI Desktop / Power BI Service
 - **Refresh:** Live / Scheduled (Azure-connected)
+---
 
 ## 🔗 Live Dashboard
 
 View the interactive dashboard on Power BI:
 
-[![Open in Power BI](https://img.shields.io/badge/Power%20BI-View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)(https://app.powerbi.com/view?r=eyJrIjoiZjYwYjY1NjctNDY5ZS00YjQ3LWJiZWItNWMxNzIzNWQ0OTBjIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
+[![Open in Power BI](https://img.shields.io/badge/Power%20BI-View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZjYwYjY1NjctNDY5ZS00YjQ3LWJiZWItNWMxNzIzNWQ0OTBjIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
+
+
